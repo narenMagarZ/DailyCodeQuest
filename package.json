@@ -1,0 +1,12 @@
+{
+  "name": "lday",
+  "version": "1.0.0",
+  "description": "A daily log of problem-solving, algorithms, and data structures practice. Sharpening logic one code snippet at a time!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
